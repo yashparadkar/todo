@@ -1,0 +1,13 @@
+#bg{
+    background-size: 1800px 900px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+#l{
+    font-size:30px;
+    color:Aqua;
+}
+#h1{
+    color:red;
+}
